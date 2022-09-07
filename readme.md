@@ -1,11 +1,11 @@
 @@ -1,16 +1,19 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Telukuntha Nikhil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <!--
-**prakharsri007/prakharsri007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharsri007&label=Profile%20views&color=0e75b6&style=flat" alt="prakharsri007" /> </p>
+**nikhil96970/nikhil96970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil96970&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil96970" /> </p>
 
 Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil96970" alt="nikhil96970" /></a> </p>
