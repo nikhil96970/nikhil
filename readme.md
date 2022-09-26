@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil96970" alt="nikhil96970" /></a> </p>
 
-- 🌱 I’m currently learning **-Machine learning
-                               -python in built libraries
-                               -More concepts of data science like Power BI,Sql,Advanced Excel**
+- 🌱 I’m currently learning **Machine learning,python in built libraries and More concepts of data science like Power BI,Sql,Advanced Excel**
 
 - 📫 How to reach me **telukuntha.nikhil@gmail.com**
 
