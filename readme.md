@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **Machine learning,python in built libraries and More concepts of data science like Power BI,Sql,Advanced Excel**
 
 - 📫 How to reach me **telukuntha.nikhil@gmail.com**
--Portfolio Website **https://nikhiltelukunta611.wixsite.com/telukuntha-nikhil**
+- Portfolio Website **https://nikhiltelukunta611.wixsite.com/telukuntha-nikhil**
+-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_eT3X4_6CoIzgaX8gNH8VCaA2Dxs8ZAc/view?usp=sharing](https://drive.google.com/file/d/1_eT3X4_6CoIzgaX8gNH8VCaA2Dxs8ZAc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
